@@ -27,3 +27,9 @@ body{
 .gray-img{
     filter: grayscale(100%);
 }
+.star-bg-color{
+    color: #E76F51;
+}
+.star-color{
+    color: #E76F51;
+}
